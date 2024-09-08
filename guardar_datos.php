@@ -1,7 +1,7 @@
 <!--
 la linea refresh, le indica al navegador dentro de cuantos seguundos (en este caso cero que significa instantaneamente) se ira a tal url (en este caso iperfil.html del mismo directorio)
 !-->
-<meta http-equiv="refresh" content="0;url=guardar_datos.php">
+<meta http-equiv="refresh" content="0;url=iperfil.html">
 
 <?php
 //Credenciales
